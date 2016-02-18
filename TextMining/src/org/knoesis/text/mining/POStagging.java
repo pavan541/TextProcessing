@@ -42,9 +42,9 @@ public class POStagging {
 		 System.out.println(tagged);
 		 
 		 //Other way to tag the string
-		 String taggedString = tagger.tagTokenizedString(sample);
+		 //String taggedString = tagger.tagTokenizedString(sample);
 		
-		 System.out.println(taggedString);
+		 //System.out.println(taggedString);
 		
      }
   
