@@ -1,6 +1,11 @@
 # TextProcessing
 Applying some basic Natural Language Processing techniques e.g.: Parts of speech tagging ,  Named entity Recognizer and Stemming
 
+Prerequisites : Eclipse (or) Netbeans IDE , Java 1.8+ version required. 
+If you are using < java 1.8 please update the java version. 
+http://www.oracle.com/technetwork/java/javase/downloads/jre8-downloads-2133155.html
+
+
 * We have organized the project as below,
   * src/
     * classifiers/
