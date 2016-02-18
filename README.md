@@ -9,12 +9,10 @@ Applying some basic Natural Language Processing techniques e.g.: Parts of speech
   
 This project was setup to perform, first, the parts-of-speech tagging using the Standford NLP parser(POStagging.java). 
 For example, the following entities are tagged as follows:
-* Southeast_NNP 
-* Asia_NNP requires_VBZ 3,750_CD new_JJ 
+* Asia_NNP 
 * aircraft_NN 
 * worth_JJ 
 * $550_CD 
-* billion_CD 
 * Singapore_NNP
 
 Second , Named entity Recognizer 
