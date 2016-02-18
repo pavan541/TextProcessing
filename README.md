@@ -47,3 +47,11 @@ Stanford Named Entity Recognizer
 * Home page: http://nlp.stanford.edu/software/CRF-NER.html
 * Online Demo: http://nlp.stanford.edu:8080/ner/
 * Download link: http://nlp.stanford.edu/software/stanford-ner-2015-12-09.zip
+
+
+Sample Text :
+
+* Barack Hussein Obama II is an American politician serving as the 44th President of the United States, the first African American to hold the office.  Born in Honolulu, Hawaii, Obama is a graduate of Columbia University and Harvard Law School, where he served as president of the Harvard Law Review. 
+
+* Ohio is a midwestern state stretching from Appalachian Country in the south to Lake Erie in the north. On the shores of the aforementioned Great Lake is its city of Cleveland, site of the Cleveland Museum of Art and its renowned collection of masterpieces. Cleveland is also home to the Rock and Roll Hall of Fame and Museum, and expansive Cuyahoga National Park.
+
