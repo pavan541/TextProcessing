@@ -39,6 +39,7 @@ For example, the followings strings are stemmed as follows:
 Stanford Log-linear Part-Of-Speech Tagger
 
 * Home page: http://nlp.stanford.edu/software/tagger.html
+* Online demo:  http://nlp.stanford.edu:8080/parser/
 * Download link: http://nlp.stanford.edu/software/stanford-postagger-2015-12-09.zip
 * Sample Tutorial: http://new.galalaly.me//2011/05/tagging-text-with-stanford-pos-tagger-in-java-applications/
 
