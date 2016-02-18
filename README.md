@@ -1,5 +1,10 @@
 # TextProcessing
-Applying some basic Natural Language Processing techniques ex Parts of speech tagging ,  Named entity Recognizer and Stemming   
+Applying some basic Natural Language Processing techniques e.g.: Parts of speech tagging ,  Named entity Recognizer and Stemming 
+* We have organized thw project as below,
+* * src/
+* **classifiers/
+* **text-mining/
+* **taggers
 
 
 Stanford Log-linear Part-Of-Speech Tagger
