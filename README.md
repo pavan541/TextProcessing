@@ -14,6 +14,8 @@ For example, the following entities are tagged as follows:
 * worth_JJ 
 * $550_CD 
 * Singapore_NNP
+The abbreviations of the tags e.g. NNP,NN,JJ,CP,NNP are in the following file. https://github.com/pavan541/TextProcessing/blob/master/TextMining/POSTags.txt
+
 
 Second , Named entity Recognizer 
 For example, the following entities are tagged as follows(NERtagging.java):
